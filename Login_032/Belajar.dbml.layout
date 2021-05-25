@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="Belajar">
+  <DataContextMoniker Name="/BelajarDataContext" />
+  <nestedChildShapes>
+    <classShape Id="a804812c-d4ff-4243-a9ff-93df4316ce4b" absoluteBounds="0.75, 0.75, 2, 1.7708968098958331">
+      <DataClassMoniker Name="/BelajarDataContext/TB_M_PRODUCT" />
+      <nestedChildShapes>
+        <elementListCompartment Id="9a7a7bb5-a11a-408d-962b-32067bdea17b" absoluteBounds="0.765, 1.21, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="1b9c3db0-430f-48d6-9e18-95624f340520" absoluteBounds="3.75, 0.75, 2, 1.3862939453125">
+      <DataClassMoniker Name="/BelajarDataContext/TB_M_USER" />
+      <nestedChildShapes>
+        <elementListCompartment Id="8d8c9793-0311-4315-b3dc-8aea19940050" absoluteBounds="3.765, 1.21, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>
